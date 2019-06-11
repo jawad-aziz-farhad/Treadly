@@ -20,6 +20,7 @@
             <?php get_template_part('filter-section'); ?>
         </div>
 
+
         <div class="row" id="main_container">
             <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
                 <div class="col-md-3">

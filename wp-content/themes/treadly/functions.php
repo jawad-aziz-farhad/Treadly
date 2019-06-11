@@ -29,6 +29,7 @@ function treadly_scripts(){
 function treadly_styles(){
     wp_enqueue_style( 'google-apis' , 'https://fonts.googleapis.com/css?family=Ubuntu:400,300,500,700', array(), 1.0 );
     wp_enqueue_style('font-awesome-all',  'https://use.fontawesome.com/releases/v5.8.2/css/all.css',  array() , 1.0);
+    wp_enqueue_style('font-awesome'   , get_stylesheet_directory_uri() . '/css/font_awesome.min.css', array(), 1.0);
     wp_enqueue_style( 'component-css', get_stylesheet_directory_uri() . '/css/component.css',     array(), 1.0 );
     wp_enqueue_style( 'owl-carousel' , get_stylesheet_directory_uri() . '/css/owl.carousel.css',  array(), 1.0 );
     wp_enqueue_style( 'bootstrap-min', get_stylesheet_directory_uri() . '/css/bootstrap.min.css', array(), 1.0 );

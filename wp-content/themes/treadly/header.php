@@ -113,7 +113,7 @@
         </div>
     </div>
 
-    <?php get_template_part('sharing_section');?>
+    <?php get_template_part('sharing-section');?>
     
     <?php endif;?>
 <body>

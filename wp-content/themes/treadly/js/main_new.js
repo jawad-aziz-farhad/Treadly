@@ -64,6 +64,8 @@
                     { text:'Weight in KG', custom_field: 'weight_in_kg' }, { text:'Weight in LB', custom_field: 'weight_in_lb'},
                     { text:'System Weight', custom_field: 'system_weight'}] ,
 
+        
+
     }
     /*
     |--------------------------------
@@ -97,15 +99,36 @@
                 $('#filterSection').collapse('hide');
                 variables.$filterContainer.hide();
                 showWishList();
-            }
-            
+            }            
         });  
     
         variables.$filterBtn.click('togglebtn', classToggle);
     
         variables.$searchBtn.click(variables, getProducts);
 
-        $('select').on('change', handlePrices);        
+        $('select').on('change', handlePrices);  
+        
+        $('.owl-carousel').owlCarousel({
+            loop:true,
+            margin:0,
+            autoplay:true,
+            nav:false,
+            dots:false,
+            autoplayHoverPause: true,
+            autoplayTimeout: 3000,
+            autoplayHoverPause: false,
+            responsive:{
+                0:{
+                    items:1
+                },
+                600:{
+                    items:1
+                },
+                1000:{
+                    items:1
+                }
+            }
+        })
     }
     /*
     |------------------------------------------
