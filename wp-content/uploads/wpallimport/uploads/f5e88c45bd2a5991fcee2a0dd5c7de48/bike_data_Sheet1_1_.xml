@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[ Bike Title 1]]></title>
+		<price_details><![CDATA[1000]]></price_details>
+		<frame_details><![CDATA[frame_details 1]]></frame_details>
+		<fork_details><![CDATA[fork_details 1]]></fork_details>
+		<rear_shock_details><![CDATA[rear_shock_details 1]]></rear_shock_details>
+		<remote_system_details><![CDATA[remote_system_details 1]]></remote_system_details>
+		<headset_details><![CDATA[headset_details 1]]></headset_details>
+		<rear_derailleur_details><![CDATA[rear_derailleur_details 1]]></rear_derailleur_details>
+		<shifters_details><![CDATA[shifters_details 1]]></shifters_details>
+		<breaks_details><![CDATA[breaks_details 1]]></breaks_details>
+		<break_levers_details><![CDATA[break_levers_details 1]]></break_levers_details>
+		<crankset_details><![CDATA[crankset_details 1]]></crankset_details>
+		<bb_set_details><![CDATA[bb_set_details 1]]></bb_set_details>
+		<handlebar_details><![CDATA[handlebar_details 1]]></handlebar_details>
+		<hstem_details><![CDATA[hstem_details 1]]></hstem_details>
+		<pedals_details><![CDATA[pedals_details 1]]></pedals_details>
+		<seat_details><![CDATA[seat_details 1]]></seat_details>
+		<seat_post_details><![CDATA[seat_post_details 1]]></seat_post_details>
+		<hub_front_details><![CDATA[hub_front_details 1]]></hub_front_details>
+		<hub_rear_details><![CDATA[hub_rear_details]]></hub_rear_details>
+		<chain_details><![CDATA[chain_details 1]]></chain_details>
+		<chain_guide_details><![CDATA[chain_guide_details 1]]></chain_guide_details>
+		<cassette_details><![CDATA[cassette_details 1]]></cassette_details>
+		<spokes_details><![CDATA[spokes_details 1]]></spokes_details>
+		<wheel_set_details><![CDATA[wheel_set_details 1]]></wheel_set_details>
+		<rims_details><![CDATA[rims_details 1]]></rims_details>
+		<use_feature><![CDATA[frame_details 1]]></use_feature>
+		<level_feature><![CDATA[fork_details 1]]></level_feature>
+		<bike_level_feature><![CDATA[rear_shock_details 1]]></bike_level_feature>
+		<type_feature><![CDATA[remote_system_details 1]]></type_feature>
+		<surface_feature><![CDATA[headset_details_field 1]]></surface_feature>
+		<surfce_value1_feature><![CDATA[rear_derailleur_details_field 1]]></surfce_value1_feature>
+		<surfce_value2_feature><![CDATA[shifters_details 1]]></surfce_value2_feature>
+		<surfce_value3_feature><![CDATA[breaks_details_field 1]]></surfce_value3_feature>
+		<surfce_value4_feature><![CDATA[break_levers_details_field 1]]></surfce_value4_feature>
+		<surfce_value5_feature><![CDATA[crankset_details_field 1]]></surfce_value5_feature>
+		<gender_feature><![CDATA[bb_set_details_field 1]]></gender_feature>
+		<suspension_feature><![CDATA[handlebar_details_field 1]]></suspension_feature>
+		<breaks_feature><![CDATA[hstem_details_field 1]]></breaks_feature>
+		<frame_feature><![CDATA[pedals_details_field 1]]></frame_feature>
+		<wheel_size_feature><![CDATA[seat_details_field 1]]></wheel_size_feature>
+		<drive_train_quality_feature><![CDATA[seat_post_details_field 1]]></drive_train_quality_feature>
+		<crankset_quantity_feature><![CDATA[hub_front_details_field 1]]></crankset_quantity_feature>
+		<suspension_lockout_quantity_feature><![CDATA[hub_rear_details_field]]></suspension_lockout_quantity_feature>
+		<suspension_travel_feature><![CDATA[chain_details_field 1]]></suspension_travel_feature>
+		<remote_suspension_feature><![CDATA[chain_guide_details_field 1]]></remote_suspension_feature>
+		<remote_seat_feature><![CDATA[cassette_details_field 1]]></remote_seat_feature>
+		<carray_basket_feature><![CDATA[spokes_details_field 1]]></carray_basket_feature>
+		<kid_seat_feature><![CDATA[wheel_set_details_field 1]]></kid_seat_feature>
+		<rims_details_field><![CDATA[rims_details_field 1]]></rims_details_field>
+		<frame_rating><![CDATA[frame_details 1]]></frame_rating>
+		<fork_rating><![CDATA[fork_details 1]]></fork_rating>
+		<rear_shock_rating><![CDATA[rear_shock_details 1]]></rear_shock_rating>
+		<remote_system_rating><![CDATA[remote_system_details 1]]></remote_system_rating>
+		<headset_rating><![CDATA[headset_rating 1]]></headset_rating>
+		<rear_derailleur_rating><![CDATA[rear_derailleur_rating 1]]></rear_derailleur_rating>
+		<headset_details_field><![CDATA[shifters_details 1]]></headset_details_field>
+		<breaks_rating><![CDATA[breaks_rating 1]]></breaks_rating>
+		<break_levers_rating><![CDATA[0]]></break_levers_rating>
+		<crankset_rating><![CDATA[0]]></crankset_rating>
+		<bb_set_rating><![CDATA[0]]></bb_set_rating>
+		<handlebar_rating><![CDATA[0]]></handlebar_rating>
+		<hstem_rating><![CDATA[0]]></hstem_rating>
+		<pedals_rating><![CDATA[0]]></pedals_rating>
+		<seat_rating><![CDATA[0]]></seat_rating>
+		<seat_post_rating><![CDATA[0]]></seat_post_rating>
+		<hub_front_rating><![CDATA[0]]></hub_front_rating>
+		<hub_rear_rating><![CDATA[0]]></hub_rear_rating>
+		<chain_rating><![CDATA[0]]></chain_rating>
+		<chain_guide_rating><![CDATA[0]]></chain_guide_rating>
+		<cassette_rating><![CDATA[0]]></cassette_rating>
+		<spokes_rating><![CDATA[0]]></spokes_rating>
+		<wheel_set_rating><![CDATA[0]]></wheel_set_rating>
+		<rims_rating><![CDATA[0]]></rims_rating>
+	</node>
+	<node>
+		<title><![CDATA[ Bike Title 2]]></title>
+		<price_details><![CDATA[1001]]></price_details>
+		<frame_details><![CDATA[frame_details 1]]></frame_details>
+		<fork_details><![CDATA[fork_details 1]]></fork_details>
+		<rear_shock_details><![CDATA[rear_shock_details 1]]></rear_shock_details>
+		<remote_system_details><![CDATA[remote_system_details 1]]></remote_system_details>
+		<headset_details><![CDATA[headset_details 1]]></headset_details>
+		<rear_derailleur_details><![CDATA[rear_derailleur_details 1]]></rear_derailleur_details>
+		<shifters_details><![CDATA[shifters_details 1]]></shifters_details>
+		<breaks_details><![CDATA[breaks_details 1]]></breaks_details>
+		<break_levers_details><![CDATA[break_levers_details 1]]></break_levers_details>
+		<crankset_details><![CDATA[crankset_details 1]]></crankset_details>
+		<bb_set_details><![CDATA[bb_set_details 1]]></bb_set_details>
+		<handlebar_details><![CDATA[handlebar_details 1]]></handlebar_details>
+		<hstem_details><![CDATA[hstem_details 1]]></hstem_details>
+		<pedals_details><![CDATA[pedals_details 1]]></pedals_details>
+		<seat_details><![CDATA[seat_details 1]]></seat_details>
+		<seat_post_details><![CDATA[seat_post_details 1]]></seat_post_details>
+		<hub_front_details><![CDATA[hub_front_details 1]]></hub_front_details>
+		<hub_rear_details><![CDATA[hub_rear_details]]></hub_rear_details>
+		<chain_details><![CDATA[chain_details 1]]></chain_details>
+		<chain_guide_details><![CDATA[chain_guide_details 1]]></chain_guide_details>
+		<cassette_details><![CDATA[cassette_details 1]]></cassette_details>
+		<spokes_details><![CDATA[spokes_details 1]]></spokes_details>
+		<wheel_set_details><![CDATA[wheel_set_details 1]]></wheel_set_details>
+		<rims_details><![CDATA[rims_details 1]]></rims_details>
+		<use_feature><![CDATA[frame_details 1]]></use_feature>
+		<level_feature><![CDATA[fork_details 1]]></level_feature>
+		<bike_level_feature><![CDATA[rear_shock_details 1]]></bike_level_feature>
+		<type_feature><![CDATA[remote_system_details 1]]></type_feature>
+		<surface_feature><![CDATA[headset_details_field 1]]></surface_feature>
+		<surfce_value1_feature><![CDATA[rear_derailleur_details_field 1]]></surfce_value1_feature>
+		<surfce_value2_feature><![CDATA[shifters_details 1]]></surfce_value2_feature>
+		<surfce_value3_feature><![CDATA[breaks_details_field 1]]></surfce_value3_feature>
+		<surfce_value4_feature><![CDATA[break_levers_details_field 1]]></surfce_value4_feature>
+		<surfce_value5_feature><![CDATA[crankset_details_field 1]]></surfce_value5_feature>
+		<gender_feature><![CDATA[bb_set_details_field 1]]></gender_feature>
+		<suspension_feature><![CDATA[handlebar_details_field 1]]></suspension_feature>
+		<breaks_feature><![CDATA[hstem_details_field 1]]></breaks_feature>
+		<frame_feature><![CDATA[pedals_details_field 1]]></frame_feature>
+		<wheel_size_feature><![CDATA[seat_details_field 1]]></wheel_size_feature>
+		<drive_train_quality_feature><![CDATA[seat_post_details_field 1]]></drive_train_quality_feature>
+		<crankset_quantity_feature><![CDATA[hub_front_details_field 1]]></crankset_quantity_feature>
+		<suspension_lockout_quantity_feature><![CDATA[hub_rear_details_field]]></suspension_lockout_quantity_feature>
+		<suspension_travel_feature><![CDATA[chain_details_field 1]]></suspension_travel_feature>
+		<remote_suspension_feature><![CDATA[chain_guide_details_field 1]]></remote_suspension_feature>
+		<remote_seat_feature><![CDATA[cassette_details_field 1]]></remote_seat_feature>
+		<carray_basket_feature><![CDATA[spokes_details_field 1]]></carray_basket_feature>
+		<kid_seat_feature><![CDATA[wheel_set_details_field 1]]></kid_seat_feature>
+		<rims_details_field><![CDATA[rims_details_field 1]]></rims_details_field>
+		<frame_rating><![CDATA[frame_details 1]]></frame_rating>
+		<fork_rating><![CDATA[fork_details 1]]></fork_rating>
+		<rear_shock_rating><![CDATA[rear_shock_details 1]]></rear_shock_rating>
+		<remote_system_rating><![CDATA[remote_system_details 1]]></remote_system_rating>
+		<headset_rating><![CDATA[headset_rating 1]]></headset_rating>
+		<rear_derailleur_rating><![CDATA[rear_derailleur_rating 1]]></rear_derailleur_rating>
+		<headset_details_field><![CDATA[shifters_details 1]]></headset_details_field>
+		<breaks_rating><![CDATA[breaks_rating 1]]></breaks_rating>
+		<break_levers_rating><![CDATA[0]]></break_levers_rating>
+		<crankset_rating><![CDATA[0]]></crankset_rating>
+		<bb_set_rating><![CDATA[0]]></bb_set_rating>
+		<handlebar_rating><![CDATA[0]]></handlebar_rating>
+		<hstem_rating><![CDATA[0]]></hstem_rating>
+		<pedals_rating><![CDATA[0]]></pedals_rating>
+		<seat_rating><![CDATA[0]]></seat_rating>
+		<seat_post_rating><![CDATA[0]]></seat_post_rating>
+		<hub_front_rating><![CDATA[0]]></hub_front_rating>
+		<hub_rear_rating><![CDATA[0]]></hub_rear_rating>
+		<chain_rating><![CDATA[0]]></chain_rating>
+		<chain_guide_rating><![CDATA[0]]></chain_guide_rating>
+		<cassette_rating><![CDATA[0]]></cassette_rating>
+		<spokes_rating><![CDATA[0]]></spokes_rating>
+		<wheel_set_rating><![CDATA[0]]></wheel_set_rating>
+		<rims_rating><![CDATA[0]]></rims_rating>
+	</node>
+	<node>
+		<title><![CDATA[ Bike Title 3]]></title>
+		<price_details><![CDATA[1002]]></price_details>
+		<frame_details><![CDATA[frame_details 1]]></frame_details>
+		<fork_details><![CDATA[fork_details 1]]></fork_details>
+		<rear_shock_details><![CDATA[rear_shock_details 1]]></rear_shock_details>
+		<remote_system_details><![CDATA[remote_system_details 1]]></remote_system_details>
+		<headset_details><![CDATA[headset_details 1]]></headset_details>
+		<rear_derailleur_details><![CDATA[rear_derailleur_details 1]]></rear_derailleur_details>
+		<shifters_details><![CDATA[shifters_details 1]]></shifters_details>
+		<breaks_details><![CDATA[breaks_details 1]]></breaks_details>
+		<break_levers_details><![CDATA[break_levers_details 1]]></break_levers_details>
+		<crankset_details><![CDATA[crankset_details 1]]></crankset_details>
+		<bb_set_details><![CDATA[bb_set_details 1]]></bb_set_details>
+		<handlebar_details><![CDATA[handlebar_details 1]]></handlebar_details>
+		<hstem_details><![CDATA[hstem_details 1]]></hstem_details>
+		<pedals_details><![CDATA[pedals_details 1]]></pedals_details>
+		<seat_details><![CDATA[seat_details 1]]></seat_details>
+		<seat_post_details><![CDATA[seat_post_details 1]]></seat_post_details>
+		<hub_front_details><![CDATA[hub_front_details 1]]></hub_front_details>
+		<hub_rear_details><![CDATA[hub_rear_details]]></hub_rear_details>
+		<chain_details><![CDATA[chain_details 1]]></chain_details>
+		<chain_guide_details><![CDATA[chain_guide_details 1]]></chain_guide_details>
+		<cassette_details><![CDATA[cassette_details 1]]></cassette_details>
+		<spokes_details><![CDATA[spokes_details 1]]></spokes_details>
+		<wheel_set_details><![CDATA[wheel_set_details 1]]></wheel_set_details>
+		<rims_details><![CDATA[rims_details 1]]></rims_details>
+		<use_feature><![CDATA[frame_details 1]]></use_feature>
+		<level_feature><![CDATA[fork_details 1]]></level_feature>
+		<bike_level_feature><![CDATA[rear_shock_details 1]]></bike_level_feature>
+		<type_feature><![CDATA[remote_system_details 1]]></type_feature>
+		<surface_feature><![CDATA[headset_details_field 1]]></surface_feature>
+		<surfce_value1_feature><![CDATA[rear_derailleur_details_field 1]]></surfce_value1_feature>
+		<surfce_value2_feature><![CDATA[shifters_details 1]]></surfce_value2_feature>
+		<surfce_value3_feature><![CDATA[breaks_details_field 1]]></surfce_value3_feature>
+		<surfce_value4_feature><![CDATA[break_levers_details_field 1]]></surfce_value4_feature>
+		<surfce_value5_feature><![CDATA[crankset_details_field 1]]></surfce_value5_feature>
+		<gender_feature><![CDATA[bb_set_details_field 1]]></gender_feature>
+		<suspension_feature><![CDATA[handlebar_details_field 1]]></suspension_feature>
+		<breaks_feature><![CDATA[hstem_details_field 1]]></breaks_feature>
+		<frame_feature><![CDATA[pedals_details_field 1]]></frame_feature>
+		<wheel_size_feature><![CDATA[seat_details_field 1]]></wheel_size_feature>
+		<drive_train_quality_feature><![CDATA[seat_post_details_field 1]]></drive_train_quality_feature>
+		<crankset_quantity_feature><![CDATA[hub_front_details_field 1]]></crankset_quantity_feature>
+		<suspension_lockout_quantity_feature><![CDATA[hub_rear_details_field]]></suspension_lockout_quantity_feature>
+		<suspension_travel_feature><![CDATA[chain_details_field 1]]></suspension_travel_feature>
+		<remote_suspension_feature><![CDATA[chain_guide_details_field 1]]></remote_suspension_feature>
+		<remote_seat_feature><![CDATA[cassette_details_field 1]]></remote_seat_feature>
+		<carray_basket_feature><![CDATA[spokes_details_field 1]]></carray_basket_feature>
+		<kid_seat_feature><![CDATA[wheel_set_details_field 1]]></kid_seat_feature>
+		<rims_details_field><![CDATA[rims_details_field 1]]></rims_details_field>
+		<frame_rating><![CDATA[frame_details 1]]></frame_rating>
+		<fork_rating><![CDATA[fork_details 1]]></fork_rating>
+		<rear_shock_rating><![CDATA[rear_shock_details 1]]></rear_shock_rating>
+		<remote_system_rating><![CDATA[remote_system_details 1]]></remote_system_rating>
+		<headset_rating><![CDATA[headset_rating 1]]></headset_rating>
+		<rear_derailleur_rating><![CDATA[rear_derailleur_rating 1]]></rear_derailleur_rating>
+		<headset_details_field><![CDATA[shifters_details 1]]></headset_details_field>
+		<breaks_rating><![CDATA[breaks_rating 1]]></breaks_rating>
+		<break_levers_rating><![CDATA[0]]></break_levers_rating>
+		<crankset_rating><![CDATA[0]]></crankset_rating>
+		<bb_set_rating><![CDATA[0]]></bb_set_rating>
+		<handlebar_rating><![CDATA[0]]></handlebar_rating>
+		<hstem_rating><![CDATA[0]]></hstem_rating>
+		<pedals_rating><![CDATA[0]]></pedals_rating>
+		<seat_rating><![CDATA[0]]></seat_rating>
+		<seat_post_rating><![CDATA[0]]></seat_post_rating>
+		<hub_front_rating><![CDATA[0]]></hub_front_rating>
+		<hub_rear_rating><![CDATA[0]]></hub_rear_rating>
+		<chain_rating><![CDATA[0]]></chain_rating>
+		<chain_guide_rating><![CDATA[0]]></chain_guide_rating>
+		<cassette_rating><![CDATA[0]]></cassette_rating>
+		<spokes_rating><![CDATA[0]]></spokes_rating>
+		<wheel_set_rating><![CDATA[0]]></wheel_set_rating>
+		<rims_rating><![CDATA[0]]></rims_rating>
+	</node>
+	<node>
+		<title><![CDATA[ Bike Title 4]]></title>
+		<price_details><![CDATA[1003]]></price_details>
+		<frame_details><![CDATA[frame_details 1]]></frame_details>
+		<fork_details><![CDATA[fork_details 1]]></fork_details>
+		<rear_shock_details><![CDATA[rear_shock_details 1]]></rear_shock_details>
+		<remote_system_details><![CDATA[remote_system_details 1]]></remote_system_details>
+		<headset_details><![CDATA[headset_details 1]]></headset_details>
+		<rear_derailleur_details><![CDATA[rear_derailleur_details 1]]></rear_derailleur_details>
+		<shifters_details><![CDATA[shifters_details 1]]></shifters_details>
+		<breaks_details><![CDATA[breaks_details 1]]></breaks_details>
+		<break_levers_details><![CDATA[break_levers_details 1]]></break_levers_details>
+		<crankset_details><![CDATA[crankset_details 1]]></crankset_details>
+		<bb_set_details><![CDATA[bb_set_details 1]]></bb_set_details>
+		<handlebar_details><![CDATA[handlebar_details 1]]></handlebar_details>
+		<hstem_details><![CDATA[hstem_details 1]]></hstem_details>
+		<pedals_details><![CDATA[pedals_details 1]]></pedals_details>
+		<seat_details><![CDATA[seat_details 1]]></seat_details>
+		<seat_post_details><![CDATA[seat_post_details 1]]></seat_post_details>
+		<hub_front_details><![CDATA[hub_front_details 1]]></hub_front_details>
+		<hub_rear_details><![CDATA[hub_rear_details]]></hub_rear_details>
+		<chain_details><![CDATA[chain_details 1]]></chain_details>
+		<chain_guide_details><![CDATA[chain_guide_details 1]]></chain_guide_details>
+		<cassette_details><![CDATA[cassette_details 1]]></cassette_details>
+		<spokes_details><![CDATA[spokes_details 1]]></spokes_details>
+		<wheel_set_details><![CDATA[wheel_set_details 1]]></wheel_set_details>
+		<rims_details><![CDATA[rims_details 1]]></rims_details>
+		<use_feature><![CDATA[frame_details 1]]></use_feature>
+		<level_feature><![CDATA[fork_details 1]]></level_feature>
+		<bike_level_feature><![CDATA[rear_shock_details 1]]></bike_level_feature>
+		<type_feature><![CDATA[remote_system_details 1]]></type_feature>
+		<surface_feature><![CDATA[headset_details_field 1]]></surface_feature>
+		<surfce_value1_feature><![CDATA[rear_derailleur_details_field 1]]></surfce_value1_feature>
+		<surfce_value2_feature><![CDATA[shifters_details 1]]></surfce_value2_feature>
+		<surfce_value3_feature><![CDATA[breaks_details_field 1]]></surfce_value3_feature>
+		<surfce_value4_feature><![CDATA[break_levers_details_field 1]]></surfce_value4_feature>
+		<surfce_value5_feature><![CDATA[crankset_details_field 1]]></surfce_value5_feature>
+		<gender_feature><![CDATA[bb_set_details_field 1]]></gender_feature>
+		<suspension_feature><![CDATA[handlebar_details_field 1]]></suspension_feature>
+		<breaks_feature><![CDATA[hstem_details_field 1]]></breaks_feature>
+		<frame_feature><![CDATA[pedals_details_field 1]]></frame_feature>
+		<wheel_size_feature><![CDATA[seat_details_field 1]]></wheel_size_feature>
+		<drive_train_quality_feature><![CDATA[seat_post_details_field 1]]></drive_train_quality_feature>
+		<crankset_quantity_feature><![CDATA[hub_front_details_field 1]]></crankset_quantity_feature>
+		<suspension_lockout_quantity_feature><![CDATA[hub_rear_details_field]]></suspension_lockout_quantity_feature>
+		<suspension_travel_feature><![CDATA[chain_details_field 1]]></suspension_travel_feature>
+		<remote_suspension_feature><![CDATA[chain_guide_details_field 1]]></remote_suspension_feature>
+		<remote_seat_feature><![CDATA[cassette_details_field 1]]></remote_seat_feature>
+		<carray_basket_feature><![CDATA[spokes_details_field 1]]></carray_basket_feature>
+		<kid_seat_feature><![CDATA[wheel_set_details_field 1]]></kid_seat_feature>
+		<rims_details_field><![CDATA[rims_details_field 1]]></rims_details_field>
+		<frame_rating><![CDATA[frame_details 1]]></frame_rating>
+		<fork_rating><![CDATA[fork_details 1]]></fork_rating>
+		<rear_shock_rating><![CDATA[rear_shock_details 1]]></rear_shock_rating>
+		<remote_system_rating><![CDATA[remote_system_details 1]]></remote_system_rating>
+		<headset_rating><![CDATA[headset_rating 1]]></headset_rating>
+		<rear_derailleur_rating><![CDATA[rear_derailleur_rating 1]]></rear_derailleur_rating>
+		<headset_details_field><![CDATA[shifters_details 1]]></headset_details_field>
+		<breaks_rating><![CDATA[breaks_rating 1]]></breaks_rating>
+		<break_levers_rating><![CDATA[0]]></break_levers_rating>
+		<crankset_rating><![CDATA[0]]></crankset_rating>
+		<bb_set_rating><![CDATA[0]]></bb_set_rating>
+		<handlebar_rating><![CDATA[0]]></handlebar_rating>
+		<hstem_rating><![CDATA[0]]></hstem_rating>
+		<pedals_rating><![CDATA[0]]></pedals_rating>
+		<seat_rating><![CDATA[0]]></seat_rating>
+		<seat_post_rating><![CDATA[0]]></seat_post_rating>
+		<hub_front_rating><![CDATA[0]]></hub_front_rating>
+		<hub_rear_rating><![CDATA[0]]></hub_rear_rating>
+		<chain_rating><![CDATA[0]]></chain_rating>
+		<chain_guide_rating><![CDATA[0]]></chain_guide_rating>
+		<cassette_rating><![CDATA[0]]></cassette_rating>
+		<spokes_rating><![CDATA[0]]></spokes_rating>
+		<wheel_set_rating><![CDATA[0]]></wheel_set_rating>
+		<rims_rating><![CDATA[0]]></rims_rating>
+	</node>
+	<node>
+		<title><![CDATA[ Bike Title 5]]></title>
+		<price_details><![CDATA[1004]]></price_details>
+		<frame_details><![CDATA[frame_details 1]]></frame_details>
+		<fork_details><![CDATA[fork_details 1]]></fork_details>
+		<rear_shock_details><![CDATA[rear_shock_details 1]]></rear_shock_details>
+		<remote_system_details><![CDATA[remote_system_details 1]]></remote_system_details>
+		<headset_details><![CDATA[headset_details 1]]></headset_details>
+		<rear_derailleur_details><![CDATA[rear_derailleur_details 1]]></rear_derailleur_details>
+		<shifters_details><![CDATA[shifters_details 1]]></shifters_details>
+		<breaks_details><![CDATA[breaks_details 1]]></breaks_details>
+		<break_levers_details><![CDATA[break_levers_details 1]]></break_levers_details>
+		<crankset_details><![CDATA[crankset_details 1]]></crankset_details>
+		<bb_set_details><![CDATA[bb_set_details 1]]></bb_set_details>
+		<handlebar_details><![CDATA[handlebar_details 1]]></handlebar_details>
+		<hstem_details><![CDATA[hstem_details 1]]></hstem_details>
+		<pedals_details><![CDATA[pedals_details 1]]></pedals_details>
+		<seat_details><![CDATA[seat_details 1]]></seat_details>
+		<seat_post_details><![CDATA[seat_post_details 1]]></seat_post_details>
+		<hub_front_details><![CDATA[hub_front_details 1]]></hub_front_details>
+		<hub_rear_details><![CDATA[hub_rear_details]]></hub_rear_details>
+		<chain_details><![CDATA[chain_details 1]]></chain_details>
+		<chain_guide_details><![CDATA[chain_guide_details 1]]></chain_guide_details>
+		<cassette_details><![CDATA[cassette_details 1]]></cassette_details>
+		<spokes_details><![CDATA[spokes_details 1]]></spokes_details>
+		<wheel_set_details><![CDATA[wheel_set_details 1]]></wheel_set_details>
+		<rims_details><![CDATA[rims_details 1]]></rims_details>
+		<use_feature><![CDATA[frame_details 1]]></use_feature>
+		<level_feature><![CDATA[fork_details 1]]></level_feature>
+		<bike_level_feature><![CDATA[rear_shock_details 1]]></bike_level_feature>
+		<type_feature><![CDATA[remote_system_details 1]]></type_feature>
+		<surface_feature><![CDATA[headset_details_field 1]]></surface_feature>
+		<surfce_value1_feature><![CDATA[rear_derailleur_details_field 1]]></surfce_value1_feature>
+		<surfce_value2_feature><![CDATA[shifters_details 1]]></surfce_value2_feature>
+		<surfce_value3_feature><![CDATA[breaks_details_field 1]]></surfce_value3_feature>
+		<surfce_value4_feature><![CDATA[break_levers_details_field 1]]></surfce_value4_feature>
+		<surfce_value5_feature><![CDATA[crankset_details_field 1]]></surfce_value5_feature>
+		<gender_feature><![CDATA[bb_set_details_field 1]]></gender_feature>
+		<suspension_feature><![CDATA[handlebar_details_field 1]]></suspension_feature>
+		<breaks_feature><![CDATA[hstem_details_field 1]]></breaks_feature>
+		<frame_feature><![CDATA[pedals_details_field 1]]></frame_feature>
+		<wheel_size_feature><![CDATA[seat_details_field 1]]></wheel_size_feature>
+		<drive_train_quality_feature><![CDATA[seat_post_details_field 1]]></drive_train_quality_feature>
+		<crankset_quantity_feature><![CDATA[hub_front_details_field 1]]></crankset_quantity_feature>
+		<suspension_lockout_quantity_feature><![CDATA[hub_rear_details_field]]></suspension_lockout_quantity_feature>
+		<suspension_travel_feature><![CDATA[chain_details_field 1]]></suspension_travel_feature>
+		<remote_suspension_feature><![CDATA[chain_guide_details_field 1]]></remote_suspension_feature>
+		<remote_seat_feature><![CDATA[cassette_details_field 1]]></remote_seat_feature>
+		<carray_basket_feature><![CDATA[spokes_details_field 1]]></carray_basket_feature>
+		<kid_seat_feature><![CDATA[wheel_set_details_field 1]]></kid_seat_feature>
+		<rims_details_field><![CDATA[rims_details_field 1]]></rims_details_field>
+		<frame_rating><![CDATA[frame_details 1]]></frame_rating>
+		<fork_rating><![CDATA[fork_details 1]]></fork_rating>
+		<rear_shock_rating><![CDATA[rear_shock_details 1]]></rear_shock_rating>
+		<remote_system_rating><![CDATA[remote_system_details 1]]></remote_system_rating>
+		<headset_rating><![CDATA[headset_rating 1]]></headset_rating>
+		<rear_derailleur_rating><![CDATA[rear_derailleur_rating 1]]></rear_derailleur_rating>
+		<headset_details_field><![CDATA[shifters_details 1]]></headset_details_field>
+		<breaks_rating><![CDATA[breaks_rating 1]]></breaks_rating>
+		<break_levers_rating><![CDATA[0]]></break_levers_rating>
+		<crankset_rating><![CDATA[0]]></crankset_rating>
+		<bb_set_rating><![CDATA[0]]></bb_set_rating>
+		<handlebar_rating><![CDATA[0]]></handlebar_rating>
+		<hstem_rating><![CDATA[0]]></hstem_rating>
+		<pedals_rating><![CDATA[0]]></pedals_rating>
+		<seat_rating><![CDATA[0]]></seat_rating>
+		<seat_post_rating><![CDATA[0]]></seat_post_rating>
+		<hub_front_rating><![CDATA[0]]></hub_front_rating>
+		<hub_rear_rating><![CDATA[0]]></hub_rear_rating>
+		<chain_rating><![CDATA[0]]></chain_rating>
+		<chain_guide_rating><![CDATA[0]]></chain_guide_rating>
+		<cassette_rating><![CDATA[0]]></cassette_rating>
+		<spokes_rating><![CDATA[0]]></spokes_rating>
+		<wheel_set_rating><![CDATA[0]]></wheel_set_rating>
+		<rims_rating><![CDATA[0]]></rims_rating>
+	</node>
+	<node>
+		<title><![CDATA[ Bike Title 6]]></title>
+		<price_details><![CDATA[1005]]></price_details>
+		<frame_details><![CDATA[frame_details 1]]></frame_details>
+		<fork_details><![CDATA[fork_details 1]]></fork_details>
+		<rear_shock_details><![CDATA[rear_shock_details 1]]></rear_shock_details>
+		<remote_system_details><![CDATA[remote_system_details 1]]></remote_system_details>
+		<headset_details><![CDATA[headset_details 1]]></headset_details>
+		<rear_derailleur_details><![CDATA[rear_derailleur_details 1]]></rear_derailleur_details>
+		<shifters_details><![CDATA[shifters_details 1]]></shifters_details>
+		<breaks_details><![CDATA[breaks_details 1]]></breaks_details>
+		<break_levers_details><![CDATA[break_levers_details 1]]></break_levers_details>
+		<crankset_details><![CDATA[crankset_details 1]]></crankset_details>
+		<bb_set_details><![CDATA[bb_set_details 1]]></bb_set_details>
+		<handlebar_details><![CDATA[handlebar_details 1]]></handlebar_details>
+		<hstem_details><![CDATA[hstem_details 1]]></hstem_details>
+		<pedals_details><![CDATA[pedals_details 1]]></pedals_details>
+		<seat_details><![CDATA[seat_details 1]]></seat_details>
+		<seat_post_details><![CDATA[seat_post_details 1]]></seat_post_details>
+		<hub_front_details><![CDATA[hub_front_details 1]]></hub_front_details>
+		<hub_rear_details><![CDATA[hub_rear_details]]></hub_rear_details>
+		<chain_details><![CDATA[chain_details 1]]></chain_details>
+		<chain_guide_details><![CDATA[chain_guide_details 1]]></chain_guide_details>
+		<cassette_details><![CDATA[cassette_details 1]]></cassette_details>
+		<spokes_details><![CDATA[spokes_details 1]]></spokes_details>
+		<wheel_set_details><![CDATA[wheel_set_details 1]]></wheel_set_details>
+		<rims_details><![CDATA[rims_details 1]]></rims_details>
+		<use_feature><![CDATA[frame_details 1]]></use_feature>
+		<level_feature><![CDATA[fork_details 1]]></level_feature>
+		<bike_level_feature><![CDATA[rear_shock_details 1]]></bike_level_feature>
+		<type_feature><![CDATA[remote_system_details 1]]></type_feature>
+		<surface_feature><![CDATA[headset_details_field 1]]></surface_feature>
+		<surfce_value1_feature><![CDATA[rear_derailleur_details_field 1]]></surfce_value1_feature>
+		<surfce_value2_feature><![CDATA[shifters_details 1]]></surfce_value2_feature>
+		<surfce_value3_feature><![CDATA[breaks_details_field 1]]></surfce_value3_feature>
+		<surfce_value4_feature><![CDATA[break_levers_details_field 1]]></surfce_value4_feature>
+		<surfce_value5_feature><![CDATA[crankset_details_field 1]]></surfce_value5_feature>
+		<gender_feature><![CDATA[bb_set_details_field 1]]></gender_feature>
+		<suspension_feature><![CDATA[handlebar_details_field 1]]></suspension_feature>
+		<breaks_feature><![CDATA[hstem_details_field 1]]></breaks_feature>
+		<frame_feature><![CDATA[pedals_details_field 1]]></frame_feature>
+		<wheel_size_feature><![CDATA[seat_details_field 1]]></wheel_size_feature>
+		<drive_train_quality_feature><![CDATA[seat_post_details_field 1]]></drive_train_quality_feature>
+		<crankset_quantity_feature><![CDATA[hub_front_details_field 1]]></crankset_quantity_feature>
+		<suspension_lockout_quantity_feature><![CDATA[hub_rear_details_field]]></suspension_lockout_quantity_feature>
+		<suspension_travel_feature><![CDATA[chain_details_field 1]]></suspension_travel_feature>
+		<remote_suspension_feature><![CDATA[chain_guide_details_field 1]]></remote_suspension_feature>
+		<remote_seat_feature><![CDATA[cassette_details_field 1]]></remote_seat_feature>
+		<carray_basket_feature><![CDATA[spokes_details_field 1]]></carray_basket_feature>
+		<kid_seat_feature><![CDATA[wheel_set_details_field 1]]></kid_seat_feature>
+		<rims_details_field><![CDATA[rims_details_field 1]]></rims_details_field>
+		<frame_rating><![CDATA[frame_details 1]]></frame_rating>
+		<fork_rating><![CDATA[fork_details 1]]></fork_rating>
+		<rear_shock_rating><![CDATA[rear_shock_details 1]]></rear_shock_rating>
+		<remote_system_rating><![CDATA[remote_system_details 1]]></remote_system_rating>
+		<headset_rating><![CDATA[headset_rating 1]]></headset_rating>
+		<rear_derailleur_rating><![CDATA[rear_derailleur_rating 1]]></rear_derailleur_rating>
+		<headset_details_field><![CDATA[shifters_details 1]]></headset_details_field>
+		<breaks_rating><![CDATA[breaks_rating 1]]></breaks_rating>
+		<break_levers_rating><![CDATA[0]]></break_levers_rating>
+		<crankset_rating><![CDATA[0]]></crankset_rating>
+		<bb_set_rating><![CDATA[0]]></bb_set_rating>
+		<handlebar_rating><![CDATA[0]]></handlebar_rating>
+		<hstem_rating><![CDATA[0]]></hstem_rating>
+		<pedals_rating><![CDATA[0]]></pedals_rating>
+		<seat_rating><![CDATA[0]]></seat_rating>
+		<seat_post_rating><![CDATA[0]]></seat_post_rating>
+		<hub_front_rating><![CDATA[0]]></hub_front_rating>
+		<hub_rear_rating><![CDATA[0]]></hub_rear_rating>
+		<chain_rating><![CDATA[0]]></chain_rating>
+		<chain_guide_rating><![CDATA[0]]></chain_guide_rating>
+		<cassette_rating><![CDATA[0]]></cassette_rating>
+		<spokes_rating><![CDATA[0]]></spokes_rating>
+		<wheel_set_rating><![CDATA[0]]></wheel_set_rating>
+		<rims_rating><![CDATA[0]]></rims_rating>
+	</node>
+</data>

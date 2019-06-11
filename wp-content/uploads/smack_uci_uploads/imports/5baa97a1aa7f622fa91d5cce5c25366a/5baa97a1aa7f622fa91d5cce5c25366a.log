@@ -1,0 +1,9 @@
+ File has been used for this event: CSV Import Scott Bikes.csv
+ Type of the imported file: csv
+ Revision of the which is used: 8
+ Mode of event: Insert
+ Total no of records: 2
+ Rows handled on each iterations (Based on your server configuration): 1
+ File used to import data into: post (Posts)
+[2019-03-05 11:03:24] Message: Inserted post ID: 570,  , Author :-  not found (assigned to Treadly) Status: publish Categories: Uncategorized  Click here to verify - Web View | Admin View 
+[2019-03-05 11:03:25] Message: Inserted post ID: 572,  , Author :-  not found (assigned to Treadly) Status: publish Categories: Uncategorized  Click here to verify - Web View | Admin View 
